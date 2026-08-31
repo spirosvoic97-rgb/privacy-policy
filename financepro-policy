@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - FinancePro</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1, h3 { color: #1a73e8; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for FinancePro</h1>
+    <p><strong>Last updated:</strong> August 31, 2026</p>
+
+    <p>FinancePro ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our mobile application and web services.</p>
+
+    <h3>1. Information Collection and Use</h3>
+    <p>FinancePro collects user account information including email address, username, and encrypted passwords (or Google Authentication profile details) to provide secure user login, synchronization of financial records, and personal/shared vault management.</p>
+
+    <h3>2. Data Usage and Third-Party Services</h3>
+    <p>We do not sell, rent, or trade your personal or financial data to third parties. Your financial entries are processed and stored securely via Google Sheets API and Streamlit Cloud services solely to enable app functionality.</p>
+
+    <h3>3. Data Retention and Security</h3>
+    <p>User credentials and personal financial records are retained as long as your account remains active. Passwords are securely hashed using bcrypt prior to storage.</p>
+
+    <h3>4. Children's Privacy</h3>
+    <p>FinancePro is a financial utility application designed for general audiences and does not knowingly collect personal information from children under the age of 13.</p>
+
+    <h3>5. Contact Us</h3>
+    <p>If you have any questions regarding this Privacy Policy, contact us at: <strong>spirosvoic97@gmail.com</strong></p>
+</body>
+</html>
